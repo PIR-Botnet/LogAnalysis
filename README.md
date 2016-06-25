@@ -1,5 +1,5 @@
 # LogAnalysis
-J'ai utilié python 3.5.1 ici sur WIN10
+J'ai utilisé python 3.5.1 ici sur WIN10
 
 le nom du fichier que je veux analyser est determiné dans le programme ApachelogsAnalyser.py ligne 10.
 
